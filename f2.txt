@@ -1,2 +1,1 @@
 Hello from f2
-Adding text in Remote repo.
